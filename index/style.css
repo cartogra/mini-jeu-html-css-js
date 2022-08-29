@@ -1,0 +1,34 @@
+h1 {
+    font-size: 20px;
+}
+input {
+    display: block;
+    margin: 1em auto;
+    text-align: center;
+}
+input:invalid{
+    background-color:#ea00ff ;
+    border: 1px #00ffe1;
+    
+}
+button{
+    display: block;
+    margin: 1em auto;
+    text-align: center;
+}
+    
+.resultat{
+    text-align: center;
+    margin: 1em 0;
+}
+.petit,
+.grand{
+    padding: 0 20px;
+}
+.container{
+    text-align: left;
+    font-size: 15px;
+    width: 300px;
+    margin: 0 auto;
+    font-style: italic;
+}
